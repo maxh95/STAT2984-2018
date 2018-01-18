@@ -4,19 +4,19 @@ Due: Tuesday, January 23, 2018 @ 8:00am
 
 Fill in the following three blanks.
 
-Name:
-Major:
-Expected graduation date:
+Name: Maxwell Hudak
+Major: Economics
+Expected graduation date: May 2018
 
 
 Answer the following four questions.
 
-Why are you taking this class?
+Why are you taking this class? Want to work as a dat analyst upon graduation, have statistical theory but need programing experience to be competitive 
 
-What is your previous programming experience?
+What is your previous programming experience? Stata Do files
 
-What do you want to take away from this class?
+What do you want to take away from this class? Regression analysis in Python 
 
-Do you have any apprehensions about this class? If so, describe.
+Do you have any apprehensions about this class? If so, describe. I believe the course will develop my programming skills, I am worried that I won’t be able to apply programming techniques to advanced regression techniques such as differences in differences regression discontinuity etc.
 
 testing upload
