@@ -18,5 +18,3 @@ What is your previous programming experience? Stata Do files
 What do you want to take away from this class? Regression analysis in Python 
 
 Do you have any apprehensions about this class? If so, describe. I believe the course will develop my programming skills, I am worried that I won’t be able to apply programming techniques to advanced regression techniques such as differences in differences regression discontinuity etc.
-
-testing upload
